@@ -20,12 +20,12 @@ const Nav = () => {
                                     <a class="nav-link active" aria-current="page" href="/search"><b><em>SEARCH</em></b></a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link active" aria-current="page" href="/"><b><em>VIEW</em></b></a>
+                                    <a class="nav-link active" aria-current="page" href="/view"><b><em>VIEW</em></b></a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link active" aria-current="page" href="/delete"><b><em>DELETE</em></b></a>
                                 </li>
-
+                                
 
                                 <li class="nav-item">
                                     <a class="nav-link" href="/search"></a>
